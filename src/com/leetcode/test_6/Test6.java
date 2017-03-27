@@ -11,7 +11,8 @@ public class Test6 {
     public static void main(String[] args) {
 
         Test6 test = new Test6();
-//        test.convert("PAYPALISHIRING",3);
+
+        test.convert("PAYPALISHIRING",3);
     }
 
 
@@ -21,6 +22,7 @@ public class Test6 {
              
          }
          return "";
+
 
      }
 
